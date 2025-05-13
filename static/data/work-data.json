@@ -1,0 +1,104 @@
+[
+    {
+        "id": "urc-oddity",
+        "title": "Project Oddity",
+        "details": {
+            "description": "Engineered a multifunctional rover for the University Rover Challenge (URC), focusing on terrain adaptability, scientific payload integration, and remote autonomous navigation. Project Oddity emphasized modularity, quick-repair architecture, and rugged performance in simulated Martian environments.",
+            "summary": "Autonomous Navigation capable Rover"
+        },
+        "date": "April 2024",
+        "roles": [
+            "Systems Lead",
+            "Lead Development Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "id": "jasig",
+        "title": "Project Jasig",
+        "details": {
+            "description": "Developed a fully autonomous drone platform using a custom-built Attitude and Heading Reference System (AHRS) for precise orientation estimation, enabling stable navigation and control in dynamic environments.",
+            "summary": "Autonomous flight with custom AHRS"
+        },
+        "date": "June 2024",
+        "roles": [
+            "Embedded Systems",
+            "Flight Control"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "id": "kart",
+        "title": "FMAE DKDC",
+        "details": {
+            "description": "Integrated and optimized the CI engine and powertrain for the Fraternity of Mechanical and Automotive Engineers [FMAE] of  DKDC team, focusing on fuel efficiency, performance tuning, and durability testing, adhering to competition standards.",
+            "summary": "Powertrain Optimization"
+        },
+        "date": "December 2024",
+        "roles": [
+            "CAE Engineer",
+            "Back-End Development",
+            "Embedded Systems"
+        ],
+        "links": [
+            {
+                "type": "Web",
+                "text": "Visit Site",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "id": "Nexawings",
+        "title": "Nexawings International",
+        "details": {
+            "description": "Developed the visual identity and frontend architecture for Nexawings International, a software solutions provider start-up.",
+            "summary": "Brand Website"
+        },
+        "date": "Nov 2022",
+        "roles": [
+            "Ui/UX Developer",
+            "Web Designer",
+            "Front-End Web Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://www.nexawings.com/"
+            }
+        ]
+    },
+    {
+        "id": "robotic-arm",
+        "title": "Robotic Arm Development",
+        "details": {
+            "description": "Developed a multi-DOF robotic arm with real-time control, integrating servo motors, inverse kinematics, and sensor feedback for automated manipulation tasks.",
+            "summary": "Precision-controlled robotic arm system"
+        },
+        "date": "March 2025",
+        "roles": [
+            "Motion Planning and Kinematics",
+            "ROS2 and Gazebo"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on Github",
+                "link": ""
+            }
+        ]
+    }
+]
